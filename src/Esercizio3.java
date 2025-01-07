@@ -17,4 +17,3 @@ public class Esercizio3 {
         return area;
     }
 }
-
